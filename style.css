@@ -1,0 +1,18 @@
+body {
+  background-image: url('farm2.png');
+  background-size: cover;
+  background-attachment: fixed;
+}
+.custom-button {
+  background-color:blue; 
+  color: #ffffff;
+ font-size: 20px;
+  padding: 10px 20px;
+  width: 150px;
+  height: 50px; 
+}
+.c1{
+padding: 50px 20px;
+  width: 250px;
+  height: 250px; 
+}
